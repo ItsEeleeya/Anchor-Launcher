@@ -1,19 +1,19 @@
 {
   "name": "anchor-launcher-monorepo",
+  "private": true,
   "version": "0.1.0-alpha",
   "description": "",
-  "scripts": {
-    "dev": "",
-    "build": ""
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
+    "nx": "^16.7.4",
     "eslint": "^8.48.0",
-		"eslint-config-prettier": "^8.10.0",
-		"eslint-plugin-svelte": "^2.33.0",
-		"prettier": "^2.8.8",
-		"prettier-plugin-svelte": "^2.10.1"
+    "eslint-config-prettier": "^8.10.0",
+    "eslint-plugin-svelte": "^2.33.0",
+    "prettier": "^2.8.8",
+    "prettier-plugin-svelte": "^2.10.1",
+    "typescript": "^5.2.2"
   }
 }
