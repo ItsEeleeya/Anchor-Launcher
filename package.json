@@ -3,7 +3,9 @@
   "private": true,
   "version": "0.1.0-alpha",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    
+  },
   "keywords": [],
   "author": "",
   "license": "AGPL-3.0-or-later",

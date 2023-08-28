@@ -1,9 +1,10 @@
 <script lang="ts">
   import Greet from './lib/Greet.svelte'
+  // import { hello } from '@anchor-launcher/api-base'
 </script>
 
 <main class="container">
-  <h1>Welcome to Tauri!</h1>
+  <h1>Anchor Test</h1>
 
   <div class="row">
     <a href="https://vitejs.dev" target="_blank">

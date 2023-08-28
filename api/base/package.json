@@ -2,8 +2,11 @@
   "name": "@anchor-launcher/api-base",
   "version": "0.1.0-alpha",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/anchor.js",
+  "module": "./dist/anchor.mjs",
+  "types": "./dist/anchor.d.ts",
   "scripts": {
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
